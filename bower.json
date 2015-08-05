@@ -1,0 +1,23 @@
+{
+  "name": "census-scope",
+  "version": "0.0.0",
+  "authors": [
+    "Gerald Shaeffer <g@gerpsh.me>"
+  ],
+  "description": "ISR CensusScope App",
+  "license": "MIT",
+  "homepage": "http://www.gerpsh.me",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "underscore": "~1.8.3",
+    "angular": "~1.4.3"
+  }
+}
